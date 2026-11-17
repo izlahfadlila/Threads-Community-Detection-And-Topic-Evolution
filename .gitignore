@@ -1,0 +1,8 @@
+#exclude folder gede dll
+output/browser_profile/
+#paper referensi
+Referensi/
+#venvironment
+.venv/
+#gambar arsitektur
+alur awal.png
